@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Beautiful_Bangladesh/static/css/main.cf11e5e6.chunk.css",
+    "main.js": "/Beautiful_Bangladesh/static/js/main.407d2d55.chunk.js",
+    "main.js.map": "/Beautiful_Bangladesh/static/js/main.407d2d55.chunk.js.map",
+    "runtime-main.js": "/Beautiful_Bangladesh/static/js/runtime-main.7246b356.js",
+    "runtime-main.js.map": "/Beautiful_Bangladesh/static/js/runtime-main.7246b356.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Beautiful_Bangladesh/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e397a535.chunk.js": "/Beautiful_Bangladesh/static/js/2.e397a535.chunk.js",
+    "static/js/2.e397a535.chunk.js.map": "/Beautiful_Bangladesh/static/js/2.e397a535.chunk.js.map",
+    "static/js/3.35847124.chunk.js": "/Beautiful_Bangladesh/static/js/3.35847124.chunk.js",
+    "static/js/3.35847124.chunk.js.map": "/Beautiful_Bangladesh/static/js/3.35847124.chunk.js.map",
+    "index.html": "/Beautiful_Bangladesh/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Beautiful_Bangladesh/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.cf11e5e6.chunk.css.map": "/Beautiful_Bangladesh/static/css/main.cf11e5e6.chunk.css.map",
+    "static/js/2.e397a535.chunk.js.LICENSE.txt": "/Beautiful_Bangladesh/static/js/2.e397a535.chunk.js.LICENSE.txt",
+    "static/media/AhsanManjil.219a3684.jpg": "/Beautiful_Bangladesh/static/media/AhsanManjil.219a3684.jpg",
+    "static/media/Hatirjheel.ddcdf857.jpg": "/Beautiful_Bangladesh/static/media/Hatirjheel.ddcdf857.jpg",
+    "static/media/topimage.1fcbc31d.jpg": "/Beautiful_Bangladesh/static/media/topimage.1fcbc31d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7246b356.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e397a535.chunk.js",
+    "static/css/main.cf11e5e6.chunk.css",
+    "static/js/main.407d2d55.chunk.js"
+  ]
+}
